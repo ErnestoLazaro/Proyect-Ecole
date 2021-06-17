@@ -1,30 +1,29 @@
 # Proyect-Ecole
 
-## Proyecto de la Escuela de producto de Platzi Master - Ecole
+## :clipboard:	 Proyecto de la Escuela de producto de Platzi Master - Ecole
 
-### Producto seleccionado:  
+### :pushpin:	 Producto seleccionado:  
 
 Tesla 
 
-### ¿En qué consiste y qué servicio ofrece? 
+### :pushpin:	 ¿En qué consiste y qué servicio ofrece? 
 
 	Servicios automotriz - Battery energy storage - Solar energy generation
 
-### ¿Qué hace? 
+### :pushpin:	 ¿Qué hace? 
 
 Tesla se dedica a la venta de Tesla Model S, Tesla Model 3, Tesla Model X, Tesla Model Y, Tesla Powerwall (bateria solar), Solar panels and Solar Roof.
 
 
 
 
-### ¿Cómo funciona actualmente?
+### :pushpin:	 ¿Cómo funciona actualmente?
 
 Se puede escoger y comprar un Tesla desde la página oficial de Tesla https://www.tesla.com/, en la cual puedes ver todos los modelos que tiene actualmente, ya elegido uno se puede proceder a la forma de pago en la cual existen varias.
 
 
-### Enlistar las propuestas de la estrategia y por cada una explicar el motivo por el cual sería efectiva.
+### :pushpin:	 Enlistar las propuestas de la estrategia y por cada una explicar el motivo por el cual sería efectiva.
 
- 		Descripción
 * 1	  ⭐	No se puede completar la compra
 * 2 	⭐⭐	No se encuentra el color favorito 
 * 3	  ⭐⭐⭐	No se encuentra tienda física en el lugar donde vivo
